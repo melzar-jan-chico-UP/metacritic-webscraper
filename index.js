@@ -1,4 +1,5 @@
 // thank you goddess queen Ania Kubów for this code 
+// note this is for theguardianuk pa uwu, will start with metacritic soon ugh yeah
 
 const PORT = 8000
 const axios = require('axios')
